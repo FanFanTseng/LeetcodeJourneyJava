@@ -1,0 +1,2 @@
+# LeetcodeJourneyJava
+leetcode
