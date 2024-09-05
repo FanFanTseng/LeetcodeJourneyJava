@@ -1,9 +1,8 @@
-package com.fanfan.leetcodejourney;
+package com.fanfan.leetcodejourney.arraysandhashing;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import java.util.Arrays;
-import java.util.List;
+import com.fanfan.leetcodejourney.arraysandhashing.GroupAnagramsService;
 import java.util.Set;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

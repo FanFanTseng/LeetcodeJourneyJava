@@ -1,8 +1,9 @@
-package com.fanfan.leetcodejourney;
+package com.fanfan.leetcodejourney.arraysandhashing;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import com.fanfan.leetcodejourney.arraysandhashing.TopKFrequentElementsService;
 import java.util.Arrays;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

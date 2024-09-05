@@ -1,4 +1,4 @@
-package com.fanfan.leetcodejourney;
+package com.fanfan.leetcodejourney.arraysandhashing;
 
 import java.util.ArrayList;
 import java.util.Arrays;
